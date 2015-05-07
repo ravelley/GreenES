@@ -1,0 +1,37 @@
+.panel-title {
+    font-size: 1.5em;
+}
+h1.brand-name {
+    font-size: 3em;
+}
+h3.brand-name {
+    font-size: 2em;
+}
+.breadcrumb li {
+    text-transform: capitalize;
+}
+.box {
+    overflow: auto;
+}
+.icon-wrapper {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 1px solid #999999;
+    overflow: hidden;
+    margin: 0px auto 15px auto;
+}
+.clearfix {
+    margin-bottom: 50px;
+}
+.pointer {
+    cursor: pointer;
+}
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
+.img-center {
+    margin: 0 auto;
+}
