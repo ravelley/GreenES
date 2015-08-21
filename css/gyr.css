@@ -35,6 +35,10 @@ h3.brand-name {
 .img-center {
     margin: 0 auto;
 }
+.address-bar span {
+    white-space: nowrap;
+    padding: 0 5px;
+}
 footer span {
     white-space: nowrap;
     padding: 0 5px;
